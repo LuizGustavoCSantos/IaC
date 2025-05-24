@@ -18,8 +18,7 @@ namespace LabirintoRobo
             util.ImprimirMatriz();
 
             int energiaFinal = util.MoverRobo(robo);
-            Console.WriteLine($"
-Energia final do robô: {energiaFinal}");
+            Console.WriteLine($"Energia final do robô: {energiaFinal}");
         }
     }
 }
