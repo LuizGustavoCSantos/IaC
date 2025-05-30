@@ -1,0 +1,14 @@
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\bin\Debug\net8.0\LabirintoRobo.exe
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\bin\Debug\net8.0\LabirintoRobo.deps.json
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\bin\Debug\net8.0\LabirintoRobo.runtimeconfig.json
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\bin\Debug\net8.0\LabirintoRobo.dll
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\bin\Debug\net8.0\LabirintoRobo.pdb
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.AssemblyInfoInputs.cache
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.AssemblyInfo.cs
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.csproj.CoreCompileInputs.cache
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.dll
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\refint\LabirintoRobo.dll
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.pdb
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\LabirintoRobo.genruntimeconfig.cache
+c:\Users\Luiz Gustavo\Downloads\IaC-main\IaC-main\IaCC\obj\Debug\net8.0\ref\LabirintoRobo.dll
